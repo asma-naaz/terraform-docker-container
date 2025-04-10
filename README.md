@@ -1,14 +1,14 @@
 # TASK-3
 # terraform-docker-container
 
-# 🚀 Deploying NGINX with Terraform and Docker
+# Deploying NGINX with Terraform and Docker
 
 In this project, I used **Terraform** to automate the process of pulling an NGINX Docker image and running it as a container locally.
 
 # What is Terraform?
 
 * Terraform is an open-source **Infrastructure as Code (IaC)** tool developed by HashiCorp.  
-It allows you to define and provision infrastructure using simple configuration files, instead of doing everything manually.
+* It allows you to define and provision infrastructure using simple configuration files, instead of doing everything manually.
 
 # Why I Used Terraform Here
 
