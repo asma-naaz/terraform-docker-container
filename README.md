@@ -31,7 +31,6 @@ It allows you to define and provision infrastructure using simple configuration 
 
 Create a file named `main.tf` and paste this code:
 
-```hcl
 terraform {
   required_providers {
     docker = {
@@ -56,6 +55,9 @@ resource "docker_container" "nginx" {
     external = 8080
   }
 }
+
+
+
 
 ![Screenshot 2025-04-10 130518](https://github.com/user-attachments/assets/1bd9b664-e623-40f6-acc1-ca015ca0fde9)
 
