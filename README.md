@@ -49,9 +49,7 @@ Apply the Configuration
 
 Open your browser and visit:
 * http://localhost:8080
-
-![Screenshot 2025-04-10 130610](https://github.com/user-attachments/assets/a6495dc5-0253-4b21-813c-a9dab700cf1c)
-
+* 
 ![Screenshot 2025-04-10 130722](https://github.com/user-attachments/assets/dbdc6e20-da84-431b-a975-c2679fa27a16)
 
 To Destroy the Setup
